@@ -1,6 +1,14 @@
 <img src="https://raw.githubusercontent.com/PRUDHVIRAJ2003/PRUDHVIRAJ2003/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRUDHVIRAJ2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRUDHVIRAJ2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 # 💫 About Me:
 🚀 Welcome to my GitHub haven! I'm scripting tomorrow's tech with a current focus on autonomous delivery robots. 📦🤖<br><br>🔌 From virtual telepresence bots to security mobile droids, my journey's been a symphony of innovation.<br><br>🌍 Now, I'm leading a bioinspired project that conquers air, land, and water – an ode to nature's brilliance. 🌊🚁<br><br>🛰️ Seeking fellow minds excited about UAVs! Let's weave our dreams into code and soar together.<br><br>🌟 Join me in shaping the skyward future. Your coding skills, my passion for robotics – a fusion of innovation!<br><br>🌐 Together, we can redefine tech's limits and push the boundaries of possibility.<br><br>📚 Beyond the algorithms, I'm fascinated by the artistry of robotics. Every line of code is a brushstroke of innovation.<br><br>
 
